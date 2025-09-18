@@ -1,4 +1,3 @@
-```markdown
 # 📦 Inventory & Supply Chain Management Dashboard – Power BI Project
 
 [![Power BI](https://img.shields.io/badge/PowerBI-Desktop-yellow?logo=microsoftpowerbi&logoColor=white)](https://powerbi.microsoft.com/)  
@@ -89,4 +88,4 @@ Colors were muted (greens, neutrals) for a supply chain/logistics theme and acce
 ## Author
 **Praneeth Kumar Reddy**  
 Data Analyst | Miami, FL  
-[LinkedIn](https://www.linkedin.com/in/praneethreddy)
+[LinkedIn](https://www.linkedin.com/in/praneethreddy) | praneethkumarreddy952@gmail.com
